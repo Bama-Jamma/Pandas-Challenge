@@ -40,5 +40,5 @@ The code for this project is written in Python with Jupyter Notebook. The code p
 * Scores by school size: The average math and reading scores and passing percentages are provided for different school size ranges.
 * Scores by school type: The average math and reading scores and passing percentages are provided for district and charter schools.
 
-Conclusion
+###Conclusion
 Based on the analysis, it is evident that charter schools outperform district schools across all metrics, while spending less per student. The analysis suggests that smaller class sizes in charter schools may be a contributing factor to their higher performance. Additionally, schools with smaller student populations tend to have higher overall passing rates. These findings can be used to inform decision-making in the district, such as the allocation of resources and policies to improve student outcomes.
